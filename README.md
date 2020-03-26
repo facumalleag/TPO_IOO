@@ -1,2 +1,2 @@
 # TPO_IOO
-Trabajo Practico - IOO
+Trabajo Practico Obligatorio - IOO
